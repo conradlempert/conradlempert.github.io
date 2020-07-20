@@ -1,5 +1,3 @@
-# Conrad Lempert
-
 Master IT student at HPI.
 
 [Linkedin](https://www.linkedin.com/in/conrad-lempert-1bb778137/)  
