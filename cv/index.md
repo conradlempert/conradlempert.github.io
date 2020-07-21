@@ -1,6 +1,8 @@
 
 <div style="float:left">
 <b>CV</b>
+
+<br/>
 <table style="border:0" >
   <tr>
     <td>2018-2020</td>
