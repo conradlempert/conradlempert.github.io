@@ -9,6 +9,6 @@ point clouds, geospatial data, laser cutting, 3D web visualization, user interac
 *2015-2018* |  B.Sc.  IT-Systems Engineering | HPI  
 
 
-[Linkedin](https://www.linkedin.com/in/conrad-lempert-1bb778137/)  
+[Linkedin](https://www.linkedin.com/in/conradlempert/)  
 [HPI](https://www.hpi.de)  
 [Contact / Legal Disclosure](https://conradlempert.github.io/legal_disclosure)
