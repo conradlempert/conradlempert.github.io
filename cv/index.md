@@ -1,6 +1,6 @@
 
 <div style="float:left">
-<h2>CV</h2>
+<b>CV</b>
 <table style="border:0" >
   <tr>
     <td>2018-2020</td>
@@ -22,7 +22,7 @@
 </table>
 
 </div>
-<figure>
-<img src="../pic.jpg" width="150" style="float:right" />
+<figure style="float:right">
+<img src="../pic.jpg" width="150" />
 <footer><small>&copy; Conrad Lempert 2020</small></footer>
 </figure>
