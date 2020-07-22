@@ -8,7 +8,7 @@ Yorckstraße 4
 14467 Potsdam
 
 Tel: +491631731662  
-E-Mail: conrad.lempert@student.hpi.de  
+E-Mail: conrad.lempert[at]student.hpi.de  
 Web: conradlempert.github.io  
 Host: github.com
 
